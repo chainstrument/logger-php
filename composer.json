@@ -1,0 +1,15 @@
+{
+    "name": "c/logger-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chainstruments",
+            "email": "minitutoriel@gmail.com"
+        }
+    ],
+    "require": {}
+}
